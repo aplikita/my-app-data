@@ -1,4 +1,7 @@
-[
+{
+  "version": 2,  // Tambahkan versi, increment saat update
+  "last_updated": "2024-06-05",
+  "data": [
     {
         "id": 1,
         "kategori": "Doa Sehari-Hari",
@@ -2790,3 +2793,5 @@
         "tentang": ""
     }
 ]
+
+    }
