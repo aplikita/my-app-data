@@ -1,6 +1,6 @@
 [
     {
-        "idxx": 1,
+        "id": 1,
         "kitab": "barzanji",
         "penulis": "Syaikh Ja'far Al-Barzanji",
         "isinya": [
@@ -2656,7 +2656,7 @@
         ]
     },
     {
-        "idxx": 2,
+        "id": 2,
         "kitab": "diba",
         "penulis": "Imam Abdurrahman Ad-Diba'i",
         "isinya": [
@@ -4716,7 +4716,7 @@
         ]
     },
     {
-        "idxx": 3,
+        "id": 3,
         "kitab": "anam",
         "penulis": "Imam Al-Hariri",
         "isinya": [
@@ -8412,7 +8412,7 @@
         ]
     },
     {
-        "idxx": 4,
+        "id": 4,
         "kitab": "adhiya",
         "penulis": "Habib Umar bin Hafidz",
         "isinya": [
@@ -14569,7 +14569,7 @@
         ]
     },
     {
-        "idxx": 5,
+        "id": 5,
         "kitab": "duror",
         "penulis": "Habib Ali Al-Habsyi",
         "isinya": [
@@ -16964,7 +16964,7 @@
         ]
     },
     {
-        "idxx": 6,
+        "id": 6,
         "kitab": "burdah",
         "penulis": "Imam Al-Bushiri",
         "isinya": [
