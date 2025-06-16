@@ -1,13 +1,7 @@
 [
     {
         "id": 1,
-        "kitab": [
-            "Maulid Barzanji",
-            "Mawlid al-Barzanji",
-            "Mawlid al-Barzanji",
-            "Маулид аль-Барзанжи",
-            "Mavlid al-Barzanji"
-        ],
+        "kitab": "barzanji",
         "judul": [
             "Laqod Jāakum",
             "Laqod Jāakum",
@@ -70,13 +64,7 @@
     },
     {
         "id": 2,
-        "kitab": [
-            "Maulid Barzanji",
-            "Mawlid al-Barzanji",
-            "Mawlid al-Barzanji",
-            "Маулид аль-Барзанжи",
-            "Mavlid al-Barzanji"
-        ],
+        "kitab": "barzanji",
         "judul": [
             "Abtadiul Imlāa",
             "Abtadi'u al-imlā",
@@ -125,13 +113,7 @@
     },
     {
         "id": 3,
-        "kitab": [
-            "Maulid Barzanji",
-            "Mawlid al-Barzanji",
-            "Mawlid al-Barzanji",
-            "Маулид аль-Барзанжи",
-            "Mavlid al-Barzanji"
-        ],
+        "kitab": "barzanji",
         "judul": [
             "Waba'du Faaqūlu",
             "Wa ba'du fa'aqūlu",
@@ -250,13 +232,7 @@
     },
     {
         "id": 4,
-        "kitab": [
-            "Maulid Barzanji",
-            "Mawlid al-Barzanji",
-            "Mawlid al-Barzanji",
-            "Маулид аль-Барзанжи",
-            "Mavlid al-Barzanji"
-        ],
+        "kitab": "barzanji",
         "judul": [
             "Walammā Arōdallōhu",
             "Wa lamā arāda Allah",
@@ -305,13 +281,7 @@
     },
     {
         "id": 5,
-        "kitab": [
-            "Maulid Barzanji",
-            "Mawlid al-Barzanji",
-            "Mawlid al-Barzanji",
-            "Маулид аль-Барзанжи",
-            "Mavlid al-Barzanji"
-        ],
+        "kitab": "barzanji",
         "judul": [
             "Walammā Tamma",
             "Wa lamā tamma",
@@ -435,13 +405,7 @@
     },
     {
         "id": 6,
-        "kitab": [
-            "Maulid Barzanji",
-            "Mawlid al-Barzanji",
-            "Mawlid al-Barzanji",
-            "Маулид аль-Барзанжи",
-            "Mavlid al-Barzanji"
-        ],
+        "kitab": "barzanji",
         "judul": [
             "Maḥallul Qiyām",
             "Mahal al-qiyām",
@@ -861,13 +825,7 @@
     },
     {
         "id": 7,
-        "kitab": [
-            "Maulid Barzanji",
-            "Mawlid al-Barzanji",
-            "Mawlid al-Barzanji",
-            "Маулид аль-Барзанжи",
-            "Mavlid al-Barzanji"
-        ],
+        "kitab": "barzanji",
         "judul": [
             "Wabaroza ﷺ",
             "Wa baraza ﷺ",
@@ -916,13 +874,7 @@
     },
     {
         "id": 8,
-        "kitab": [
-            "Maulid Barzanji",
-            "Mawlid al-Barzanji",
-            "Mawlid al-Barzanji",
-            "Маулид аль-Барзанжи",
-            "Mavlid al-Barzanji"
-        ],
+        "kitab": "barzanji",
         "judul": [
             "Wadhoharo 'Inda",
             "Wa ẓahara 'inda",
@@ -971,13 +923,7 @@
     },
     {
         "id": 9,
-        "kitab": [
-            "Maulid Barzanji",
-            "Mawlid al-Barzanji",
-            "Mawlid al-Barzanji",
-            "Маулид аль-Барзанжи",
-            "Mavlid al-Barzanji"
-        ],
+        "kitab": "barzanji",
         "judul": [
             "Wa-ardlo'at",
             "Wa arḍa'at-hu ﷺ",
@@ -1026,13 +972,7 @@
     },
     {
         "id": 10,
-        "kitab": [
-            "Maulid Barzanji",
-            "Mawlid al-Barzanji",
-            "Mawlid al-Barzanji",
-            "Маулид аль-Барзанжи",
-            "Mavlid al-Barzanji"
-        ],
+        "kitab": "barzanji",
         "judul": [
             "Wakāna Yasyibu",
             "Wa kāna ﷺ",
@@ -1081,13 +1021,7 @@
     },
     {
         "id": 11,
-        "kitab": [
-            "Maulid Barzanji",
-            "Mawlid al-Barzanji",
-            "Mawlid al-Barzanji",
-            "Маулид аль-Барзанжи",
-            "Mavlid al-Barzanji"
-        ],
+        "kitab": "barzanji",
         "judul": [
             "Walammā Balagho",
             "Wa lamā balagha",
@@ -1136,13 +1070,7 @@
     },
     {
         "id": 12,
-        "kitab": [
-            "Maulid Barzanji",
-            "Mawlid al-Barzanji",
-            "Mawlid al-Barzanji",
-            "Маулид аль-Барзанжи",
-            "Mavlid al-Barzanji"
-        ],
+        "kitab": "barzanji",
         "judul": [
             "Walammā Balagho",
             "Wa lamā balagha",
@@ -1191,13 +1119,7 @@
     },
     {
         "id": 13,
-        "kitab": [
-            "Maulid Barzanji",
-            "Mawlid al-Barzanji",
-            "Mawlid al-Barzanji",
-            "Маулид аль-Барзанжи",
-            "Mavlid al-Barzanji"
-        ],
+        "kitab": "barzanji",
         "judul": [
             "Walammā Balagho",
             "Wa lamā balagha",
@@ -1246,13 +1168,7 @@
     },
     {
         "id": 14,
-        "kitab": [
-            "Maulid Barzanji",
-            "Mawlid al-Barzanji",
-            "Mawlid al-Barzanji",
-            "Маулид аль-Барзанжи",
-            "Mavlid al-Barzanji"
-        ],
+        "kitab": "barzanji",
         "judul": [
             "Walammā Kamula",
             "Wa lamā kamula",
@@ -1301,13 +1217,7 @@
     },
     {
         "id": 15,
-        "kitab": [
-            "Maulid Barzanji",
-            "Mawlid al-Barzanji",
-            "Mawlid al-Barzanji",
-            "Маулид аль-Барзанжи",
-            "Mavlid al-Barzanji"
-        ],
+        "kitab": "barzanji",
         "judul": [
             "Wa Awwalu",
             "Wa awwalu",
@@ -1356,13 +1266,7 @@
     },
     {
         "id": 16,
-        "kitab": [
-            "Maulid Barzanji",
-            "Mawlid al-Barzanji",
-            "Mawlid al-Barzanji",
-            "Маулид аль-Барзанжи",
-            "Mavlid al-Barzanji"
-        ],
+        "kitab": "barzanji",
         "judul": [
             "Ṡumma Usriya",
             "Thumma usrīya",
@@ -1411,13 +1315,7 @@
     },
     {
         "id": 17,
-        "kitab": [
-            "Maulid Barzanji",
-            "Mawlid al-Barzanji",
-            "Mawlid al-Barzanji",
-            "Маулид аль-Барзанжи",
-            "Mavlid al-Barzanji"
-        ],
+        "kitab": "barzanji",
         "judul": [
             "Ṡumma Arodlo",
             "Thumma 'araḍa",
@@ -1466,13 +1364,7 @@
     },
     {
         "id": 18,
-        "kitab": [
-            "Maulid Barzanji",
-            "Mawlid al-Barzanji",
-            "Mawlid al-Barzanji",
-            "Маулид аль-Барзанжи",
-            "Mavlid al-Barzanji"
-        ],
+        "kitab": "barzanji",
         "judul": [
             "Wamarro Biqudai",
             "Wa marra ﷺ",
@@ -1521,13 +1413,7 @@
     },
     {
         "id": 19,
-        "kitab": [
-            "Maulid Barzanji",
-            "Mawlid al-Barzanji",
-            "Mawlid al-Barzanji",
-            "Маулид аль-Барзанжи",
-            "Mavlid al-Barzanji"
-        ],
+        "kitab": "barzanji",
         "judul": [
             "Wakāna Akmala",
             "Wa kāna ﷺ",
@@ -1576,13 +1462,7 @@
     },
     {
         "id": 20,
-        "kitab": [
-            "Maulid Barzanji",
-            "Mawlid al-Barzanji",
-            "Mawlid al-Barzanji",
-            "Маулид аль-Барзанжи",
-            "Mavlid al-Barzanji"
-        ],
+        "kitab": "barzanji",
         "judul": [
             "Wakāna Syadida",
             "Wa kāna ﷺ",
@@ -1631,13 +1511,7 @@
     },
     {
         "id": 21,
-        "kitab": [
-            "Maulid Barzanji",
-            "Mawlid al-Barzanji",
-            "Mawlid al-Barzanji",
-            "Маулид аль-Барзанжи",
-            "Mavlid al-Barzanji"
-        ],
+        "kitab": "barzanji",
         "judul": [
             "Allahumma",
             "Allahumma yā Bāsiṭ",
@@ -1683,13 +1557,7 @@
     },
     {
         "id": 22,
-        "kitab": [
-            "Maulid Barzanji",
-            "Mawlid al-Barzanji",
-            "Mawlid al-Barzanji",
-            "Маулид аль-Барзанжи",
-            "Mavlid al-Barzanji"
-        ],
+        "kitab": "barzanji",
         "judul": [
             "Yā Robbi Sholli",
             "Yā Rabbī ṣallī",
@@ -1846,13 +1714,7 @@
     },
     {
         "id": 23,
-        "kitab": [
-            "Maulid Barzanji",
-            "Mawlid al-Barzanji",
-            "Mawlid al-Barzanji",
-            "Маулид аль-Барзанжи",
-            "Mavlid al-Barzanji"
-        ],
+        "kitab": "barzanji",
         "judul": [
             "Yā Rasulullah",
             "Yā Rasūla Allāh",
@@ -2102,13 +1964,7 @@
     },
     {
         "id": 24,
-        "kitab": [
-            "Maulid Barzanji",
-            "Mawlid al-Barzanji",
-            "Mawlid al-Barzanji",
-            "Маулид аль-Барзанжи",
-            "Mavlid al-Barzanji"
-        ],
+        "kitab": "barzanji",
         "judul": [
             "Sholawat Badar",
             "Ṣalātu Allāh",
@@ -2446,13 +2302,7 @@
     },
     {
         "id": 25,
-        "kitab": [
-            "Maulid Barzanji",
-            "Mawlid al-Barzanji",
-            "Mawlid al-Barzanji",
-            "Маулид аль-Барзанжи",
-            "Mavlid al-Barzanji"
-        ],
+        "kitab": "barzanji",
         "judul": [
             "Yā Sayyidi",
             "Yā Sayyidī",
@@ -2609,13 +2459,7 @@
     },
     {
         "id": 26,
-        "kitab": [
-            "Maulid Barzanji",
-            "Mawlid al-Barzanji",
-            "Mawlid al-Barzanji",
-            "Маулид аль-Барзанжи",
-            "Mavlid al-Barzanji"
-        ],
+        "kitab": "barzanji",
         "judul": [
             "Fī Ḥubbi",
             "Fī ḥubbi Sayyidinā",
@@ -2832,13 +2676,7 @@
     },
     {
         "id": 27,
-        "kitab": [
-            "Maulid Diba'i",
-            "Mawlid Diba'i",
-            "Mawlid Diba'i",
-            "Маулид Диба’и",
-            "Mavlid Diba’i"
-        ],
+        "kitab": "diba",
         "judul": [
             "Muqaddimah",
             "The Opening",
@@ -2903,13 +2741,7 @@
     },
     {
         "id": 28,
-        "kitab": [
-            "Maulid Diba'i",
-            "Mawlid Diba'i",
-            "Mawlid Diba'i",
-            "Маулид Диба’и",
-            "Mavlid Diba’i"
-        ],
+        "kitab": "diba",
         "judul": [
             "Yā Robbi Ṡolli",
             "Yā Rabbi Ṡalli",
@@ -3065,13 +2897,7 @@
     },
     {
         "id": 29,
-        "kitab": [
-            "Maulid Diba'i",
-            "Mawlid Diba'i",
-            "Mawlid Diba'i",
-            "Маулид Диба’и",
-            "Mavlid Diba’i"
-        ],
+        "kitab": "diba",
         "judul": [
             "Innā Fataḥnā Laka",
             "Innā Fataḥnā Laka",
@@ -3128,13 +2954,7 @@
     },
     {
         "id": 30,
-        "kitab": [
-            "Maulid Diba'i",
-            "Mawlid Diba'i",
-            "Mawlid Diba'i",
-            "Маулид Диба’и",
-            "Mavlid Diba’i"
-        ],
+        "kitab": "diba",
         "judul": [
             "Yā Rasūlallōh",
             "Yā Rasūlallāh",
@@ -3380,13 +3200,7 @@
     },
     {
         "id": 31,
-        "kitab": [
-            "Maulid Diba'i",
-            "Mawlid Diba'i",
-            "Mawlid Diba'i",
-            "Маулид Диба’и",
-            "Mavlid Diba’i"
-        ],
+        "kitab": "diba",
         "judul": [
             "Alḥamdulillāhi",
             "Alḥamdulillāhi",
@@ -3434,13 +3248,7 @@
     },
     {
         "id": 32,
-        "kitab": [
-            "Maulid Diba'i",
-            "Mawlid Diba'i",
-            "Mawlid Diba'i",
-            "Маулид Диба’и",
-            "Mavlid Diba’i"
-        ],
+        "kitab": "diba",
         "judul": [
             "Qīla Huwa Ādam",
             "Qīla Huwa Ādam",
@@ -3485,13 +3293,7 @@
     },
     {
         "id": 33,
-        "kitab": [
-            "Maulid Diba'i",
-            "Mawlid Diba'i",
-            "Mawlid Diba'i",
-            "Маулид Диба’и",
-            "Mavlid Diba’i"
-        ],
+        "kitab": "diba",
         "judul": [
             "Yub'aṡu Min Tihāmah",
             "Yub'aṡu Min Tihāmah",
@@ -3551,13 +3353,7 @@
     },
     {
         "id": 34,
-        "kitab": [
-            "Maulid Diba'i",
-            "Mawlid Diba'i",
-            "Mawlid Diba'i",
-            "Маулид Диба’и",
-            "Mavlid Diba’i"
-        ],
+        "kitab": "diba",
         "judul": [
             "Ṣolātullōhi Mā laḥat",
             "Ṣalātullāhi Mā laḥat",
@@ -3763,13 +3559,7 @@
     },
     {
         "id": 35,
-        "kitab": [
-            "Maulid Diba'i",
-            "Mawlid Diba'i",
-            "Mawlid Diba'i",
-            "Маулид Диба’и",
-            "Mavlid Diba’i"
-        ],
+        "kitab": "diba",
         "judul": [
             "Fasubḥāna Man",
             "Fasubḥāna Man",
@@ -3829,13 +3619,7 @@
     },
     {
         "id": 36,
-        "kitab": [
-            "Maulid Diba'i",
-            "Mawlid Diba'i",
-            "Mawlid Diba'i",
-            "Маулид Диба’и",
-            "Mavlid Diba’i"
-        ],
+        "kitab": "diba",
         "judul": [
             "Ḥadīṡul Awwal",
             "Ḥadīṡ Al Awwal",
@@ -3880,13 +3664,7 @@
     },
     {
         "id": 37,
-        "kitab": [
-            "Maulid Diba'i",
-            "Mawlid Diba'i",
-            "Mawlid Diba'i",
-            "Маулид Диба’и",
-            "Mavlid Diba’i"
-        ],
+        "kitab": "diba",
         "judul": [
             "Ḥadīṣuṣ Ṣānī",
             "Ḥadīth Ath-Thānī",
@@ -3946,13 +3724,7 @@
     },
     {
         "id": 38,
-        "kitab": [
-            "Maulid Diba'i",
-            "Mawlid Diba'i",
-            "Mawlid Diba'i",
-            "Маулид Диба’и",
-            "Mavlid Diba’i"
-        ],
+        "kitab": "diba",
         "judul": [
             "Aḥḍirū Qulūbakum",
             "Aḥḍirū Qulūbakum",
@@ -3997,13 +3769,7 @@
     },
     {
         "id": 39,
-        "kitab": [
-            "Maulid Diba'i",
-            "Mawlid Diba'i",
-            "Mawlid Diba'i",
-            "Маулид Диба’и",
-            "Mavlid Diba’i"
-        ],
+        "kitab": "diba",
         "judul": [
             "Fahtazzal Áršu",
             "Fahtazzal Áršu",
@@ -4048,13 +3814,7 @@
     },
     {
         "id": 40,
-        "kitab": [
-            "Maulid Diba'i",
-            "Mawlid Diba'i",
-            "Mawlid Diba'i",
-            "Маулид Диба’и",
-            "Mavlid Diba’i"
-        ],
+        "kitab": "diba",
         "judul": [
             "Maḥallul-Qiyām",
             "Maḥal Al Qiyām",
@@ -4559,13 +4319,7 @@
     },
     {
         "id": 41,
-        "kitab": [
-            "Maulid Diba'i",
-            "Mawlid Diba'i",
-            "Mawlid Diba'i",
-            "Маулид Диба’и",
-            "Mavlid Diba’i"
-        ],
+        "kitab": "diba",
         "judul": [
             "Wa Wulida ﷺ",
             "Wa Wulida ﷺ",
@@ -4640,13 +4394,7 @@
     },
     {
         "id": 42,
-        "kitab": [
-            "Maulid Diba'i",
-            "Mawlid Diba'i",
-            "Mawlid Diba'i",
-            "Маулид Диба’и",
-            "Mavlid Diba’i"
-        ],
+        "kitab": "diba",
         "judul": [
             "Fabaynamal Huwa",
             "Fabaynama Al Huwa",
@@ -4706,13 +4454,7 @@
     },
     {
         "id": 43,
-        "kitab": [
-            "Maulid Diba'i",
-            "Mawlid Diba'i",
-            "Mawlid Diba'i",
-            "Маулид Диба’и",
-            "Mavlid Diba’i"
-        ],
+        "kitab": "diba",
         "judul": [
             "Fabaynamal Ḥabību",
             "Fabaynama Al Ḥabību",
@@ -4772,13 +4514,7 @@
     },
     {
         "id": 44,
-        "kitab": [
-            "Maulid Diba'i",
-            "Mawlid Diba'i",
-            "Mawlid Diba'i",
-            "Маулид Диба’и",
-            "Mavlid Diba’i"
-        ],
+        "kitab": "diba",
         "judul": [
             "Wa Kāna ﷺ",
             "Wa Kāna ﷺ",
@@ -4823,13 +4559,7 @@
     },
     {
         "id": 45,
-        "kitab": [
-            "Maulid Diba'i",
-            "Mawlid Diba'i",
-            "Mawlid Diba'i",
-            "Маулид Диба’и",
-            "Mavlid Diba’i"
-        ],
+        "kitab": "diba",
         "judul": [
             "Waqīla Liba‘ḍihim",
             "Waqīla Liba‘ḍihim",
@@ -4889,13 +4619,7 @@
     },
     {
         "id": 46,
-        "kitab": [
-            "Maulid Diba'i",
-            "Mawlid Diba'i",
-            "Mawlid Diba'i",
-            "Маулид Диба’и",
-            "Mavlid Diba’i"
-        ],
+        "kitab": "diba",
         "judul": [
             "Yā Badrotim",
             "Yā Badrotim",
@@ -4981,13 +4705,7 @@
     },
     {
         "id": 47,
-        "kitab": [
-            "Maulid Diba'i",
-            "Mawlid Diba'i",
-            "Mawlid Diba'i",
-            "Маулид Диба’и",
-            "Mavlid Diba’i"
-        ],
+        "kitab": "diba",
         "judul": [
             "Al-Ḥamdulillāh",
             "Al-Ḥamdulillāh",
@@ -5032,13 +4750,7 @@
     },
     {
         "id": 48,
-        "kitab": [
-            "Maulid Syaroful Anam",
-            "Mawlid Sharaf al-Anam",
-            "Mawlid Sharaf al-Anam",
-            "Маулид Шараф аль-Анам",
-            "Mavlid Sharaful Anam"
-        ],
+        "kitab": "anam",
         "judul": [
             "Assalāmu'alaik",
             "Assalāmu'alaik",
@@ -5330,13 +5042,7 @@
     },
     {
         "id": 49,
-        "kitab": [
-            "Maulid Syaroful Anam",
-            "Mawlid Sharaf al-Anam",
-            "Mawlid Sharaf al-Anam",
-            "Маулид Шараф аль-Анам",
-            "Mavlid Sharaful Anam"
-        ],
+        "kitab": "anam",
         "judul": [
             "Asholātu 'Alan Nabiy",
             "Asholātu 'Alan Nabiy",
@@ -5478,13 +5184,7 @@
     },
     {
         "id": 50,
-        "kitab": [
-            "Maulid Syaroful Anam",
-            "Mawlid Sharaf al-Anam",
-            "Mawlid Sharaf al-Anam",
-            "Маулид Шараф аль-Анам",
-            "Mavlid Sharaful Anam"
-        ],
+        "kitab": "anam",
         "judul": [
             "Innā Fatahna",
             "Innā Fatahna",
@@ -5525,13 +5225,7 @@
     },
     {
         "id": 51,
-        "kitab": [
-            "Maulid Syaroful Anam",
-            "Mawlid Sharaf al-Anam",
-            "Mawlid Sharaf al-Anam",
-            "Маулид Шараф аль-Анам",
-            "Mavlid Sharaful Anam"
-        ],
+        "kitab": "anam",
         "judul": [
             "Alḥamdulillāhil Ladzī",
             "Alḥamdulillāh Al Ladzī",
@@ -5572,13 +5266,7 @@
     },
     {
         "id": 52,
-        "kitab": [
-            "Maulid Syaroful Anam",
-            "Mawlid Sharaf al-Anam",
-            "Mawlid Sharaf al-Anam",
-            "Маулид Шараф аль-Анам",
-            "Mavlid Sharaful Anam"
-        ],
+        "kitab": "anam",
         "judul": [
             "'Alan Nabiyyi",
             "'Alan Nabiyyi",
@@ -5700,13 +5388,7 @@
     },
     {
         "id": 53,
-        "kitab": [
-            "Maulid Syaroful Anam",
-            "Mawlid Sharaf al-Anam",
-            "Mawlid Sharaf al-Anam",
-            "Маулид Шараф аль-Анам",
-            "Mavlid Sharaful Anam"
-        ],
+        "kitab": "anam",
         "judul": [
             "Qouluhu Ta'ala",
             "Qouluhu Ta'ala",
@@ -5747,13 +5429,7 @@
     },
     {
         "id": 54,
-        "kitab": [
-            "Maulid Syaroful Anam",
-            "Mawlid Sharaf al-Anam",
-            "Mawlid Sharaf al-Anam",
-            "Маулид Шараф аль-Анам",
-            "Mavlid Sharaful Anam"
-        ],
+        "kitab": "anam",
         "judul": [
             "Tanaqqolta",
             "Tanaqqolta",
@@ -5875,13 +5551,7 @@
     },
     {
         "id": 55,
-        "kitab": [
-            "Maulid Syaroful Anam",
-            "Mawlid Sharaf al-Anam",
-            "Mawlid Sharaf al-Anam",
-            "Маулид Шараф аль-Анам",
-            "Mavlid Sharaful Anam"
-        ],
+        "kitab": "anam",
         "judul": [
             "Wa'an Yazid",
             "Wa'an Yazid",
@@ -5922,13 +5592,7 @@
     },
     {
         "id": 56,
-        "kitab": [
-            "Maulid Syaroful Anam",
-            "Mawlid Sharaf al-Anam",
-            "Mawlid Sharaf al-Anam",
-            "Маулид Шараф аль-Анам",
-            "Mavlid Sharaful Anam"
-        ],
+        "kitab": "anam",
         "judul": [
             "Wulidal Habib",
             "Wulidal Habib",
@@ -6080,13 +5744,7 @@
     },
     {
         "id": 57,
-        "kitab": [
-            "Maulid Syaroful Anam",
-            "Mawlid Sharaf al-Anam",
-            "Mawlid Sharaf al-Anam",
-            "Маулид Шараф аль-Анам",
-            "Mavlid Sharaful Anam"
-        ],
+        "kitab": "anam",
         "judul": [
             "Wawadlo'at",
             "Wawadlo'at",
@@ -6127,13 +5785,7 @@
     },
     {
         "id": 58,
-        "kitab": [
-            "Maulid Syaroful Anam",
-            "Mawlid Sharaf al-Anam",
-            "Mawlid Sharaf al-Anam",
-            "Маулид Шараф аль-Анам",
-            "Mavlid Sharaful Anam"
-        ],
+        "kitab": "anam",
         "judul": [
             "Ahmadal Hadi",
             "Ahmadal Hadi",
@@ -6205,13 +5857,7 @@
     },
     {
         "id": 59,
-        "kitab": [
-            "Maulid Syaroful Anam",
-            "Mawlid Sharaf al-Anam",
-            "Mawlid Sharaf al-Anam",
-            "Маулид Шараф аль-Анам",
-            "Mavlid Sharaful Anam"
-        ],
+        "kitab": "anam",
         "judul": [
             "Hādzā Kafanī",
             "Hādzā Kafanī",
@@ -6373,13 +6019,7 @@
     },
     {
         "id": 60,
-        "kitab": [
-            "Maulid Syaroful Anam",
-            "Mawlid Sharaf al-Anam",
-            "Mawlid Sharaf al-Anam",
-            "Маулид Шараф аль-Анам",
-            "Mavlid Sharaful Anam"
-        ],
+        "kitab": "anam",
         "judul": [
             "Wamaqot Aminah",
             "Wamaqot Aminah",
@@ -6420,13 +6060,7 @@
     },
     {
         "id": 61,
-        "kitab": [
-            "Maulid Syaroful Anam",
-            "Mawlid Sharaf al-Anam",
-            "Mawlid Sharaf al-Anam",
-            "Маулид Шараф аль-Анам",
-            "Mavlid Sharaful Anam"
-        ],
+        "kitab": "anam",
         "judul": [
             "Fī Miṡli ḥusnik",
             "Fī Miṡli ḥusnik",
@@ -6467,13 +6101,7 @@
     },
     {
         "id": 62,
-        "kitab": [
-            "Maulid Syaroful Anam",
-            "Mawlid Sharaf al-Anam",
-            "Mawlid Sharaf al-Anam",
-            "Маулид Шараф аль-Анам",
-            "Mavlid Sharaful Anam"
-        ],
+        "kitab": "anam",
         "judul": [
             "Sholla 'alaika",
             "Sholla 'alaika",
@@ -6585,13 +6213,7 @@
     },
     {
         "id": 63,
-        "kitab": [
-            "Maulid Syaroful Anam",
-            "Mawlid Sharaf al-Anam",
-            "Mawlid Sharaf al-Anam",
-            "Маулид Шараф аль-Анам",
-            "Mavlid Sharaful Anam"
-        ],
+        "kitab": "anam",
         "judul": [
             "Fasubḥāna",
             "Fasubḥāna",
@@ -6632,13 +6254,7 @@
     },
     {
         "id": 64,
-        "kitab": [
-            "Maulid Syaroful Anam",
-            "Mawlid Sharaf al-Anam",
-            "Mawlid Sharaf al-Anam",
-            "Маулид Шараф аль-Анам",
-            "Mavlid Sharaful Anam"
-        ],
+        "kitab": "anam",
         "judul": [
             "Badatlanā",
             "Badatlanā",
@@ -6750,13 +6366,7 @@
     },
     {
         "id": 65,
-        "kitab": [
-            "Maulid Syaroful Anam",
-            "Mawlid Sharaf al-Anam",
-            "Mawlid Sharaf al-Anam",
-            "Маулид Шараф аль-Анам",
-            "Mavlid Sharaful Anam"
-        ],
+        "kitab": "anam",
         "judul": [
             "Falamma āna",
             "Falamma āna",
@@ -6797,13 +6407,7 @@
     },
     {
         "id": 66,
-        "kitab": [
-            "Maulid Syaroful Anam",
-            "Mawlid Sharaf al-Anam",
-            "Mawlid Sharaf al-Anam",
-            "Маулид Шараф аль-Анам",
-            "Mavlid Sharaful Anam"
-        ],
+        "kitab": "anam",
         "judul": [
             "Yā Nābi Salām",
             "Yā Nābi Salām",
@@ -7205,13 +6809,7 @@
     },
     {
         "id": 67,
-        "kitab": [
-            "Maulid Syaroful Anam",
-            "Mawlid Sharaf al-Anam",
-            "Mawlid Sharaf al-Anam",
-            "Маулид Шараф аль-Анам",
-            "Mavlid Sharaful Anam"
-        ],
+        "kitab": "anam",
         "judul": [
             "Falammā Asyroqo",
             "Falammā Asyroqo",
@@ -7252,13 +6850,7 @@
     },
     {
         "id": 68,
-        "kitab": [
-            "Maulid Syaroful Anam",
-            "Mawlid Sharaf al-Anam",
-            "Mawlid Sharaf al-Anam",
-            "Маулид Шараф аль-Анам",
-            "Mavlid Sharaful Anam"
-        ],
+        "kitab": "anam",
         "judul": [
             "Walamma Wulida",
             "Walamma Wulida",
@@ -7299,13 +6891,7 @@
     },
     {
         "id": 69,
-        "kitab": [
-            "Maulid Syaroful Anam",
-            "Mawlid Sharaf al-Anam",
-            "Mawlid Sharaf al-Anam",
-            "Маулид Шараф аль-Анам",
-            "Mavlid Sharaful Anam"
-        ],
+        "kitab": "anam",
         "judul": [
             "Sholātullōhi",
             "Sholātullōhi",
@@ -7397,13 +6983,7 @@
     },
     {
         "id": 70,
-        "kitab": [
-            "Maulid Syaroful Anam",
-            "Mawlid Sharaf al-Anam",
-            "Mawlid Sharaf al-Anam",
-            "Маулид Шараф аль-Анам",
-            "Mavlid Sharaful Anam"
-        ],
+        "kitab": "anam",
         "judul": [
             "Qōla Ahlus Siyari",
             "Qōla Ahlus Siyari",
@@ -7444,13 +7024,7 @@
     },
     {
         "id": 71,
-        "kitab": [
-            "Maulid Syaroful Anam",
-            "Mawlid Sharaf al-Anam",
-            "Mawlid Sharaf al-Anam",
-            "Маулид Шараф аль-Анам",
-            "Mavlid Sharaful Anam"
-        ],
+        "kitab": "anam",
         "judul": [
             "Fāzat ḥalīmatu",
             "Fāzat ḥalīmatu",
@@ -7552,13 +7126,7 @@
     },
     {
         "id": 72,
-        "kitab": [
-            "Maulid Syaroful Anam",
-            "Mawlid Sharaf al-Anam",
-            "Mawlid Sharaf al-Anam",
-            "Маулид Шараф аль-Анам",
-            "Mavlid Sharaful Anam"
-        ],
+        "kitab": "anam",
         "judul": [
             "Qōlat ḥalīmatu",
             "Qōlat ḥalīmatu",
@@ -7599,13 +7167,7 @@
     },
     {
         "id": 73,
-        "kitab": [
-            "Maulid Syaroful Anam",
-            "Mawlid Sharaf al-Anam",
-            "Mawlid Sharaf al-Anam",
-            "Маулид Шараф аль-Анам",
-            "Mavlid Sharaful Anam"
-        ],
+        "kitab": "anam",
         "judul": [
             "Allōhu Allōhu",
             "Allōhu Allōhu",
@@ -7717,13 +7279,7 @@
     },
     {
         "id": 74,
-        "kitab": [
-            "Maulid Syaroful Anam",
-            "Mawlid Sharaf al-Anam",
-            "Mawlid Sharaf al-Anam",
-            "Маулид Шараф аль-Анам",
-            "Mavlid Sharaful Anam"
-        ],
+        "kitab": "anam",
         "judul": [
             "Qōlat ḥalīmatu",
             "Qōlat ḥalīmatu",
@@ -7764,13 +7320,7 @@
     },
     {
         "id": 75,
-        "kitab": [
-            "Maulid Syaroful Anam",
-            "Mawlid Sharaf al-Anam",
-            "Mawlid Sharaf al-Anam",
-            "Маулид Шараф аль-Анам",
-            "Mavlid Sharaful Anam"
-        ],
+        "kitab": "anam",
         "judul": [
             "Man Miṡlu Aḥmad",
             "Man Miṡlu Aḥmad",
@@ -7872,13 +7422,7 @@
     },
     {
         "id": 76,
-        "kitab": [
-            "Maulid Syaroful Anam",
-            "Mawlid Sharaf al-Anam",
-            "Mawlid Sharaf al-Anam",
-            "Маулид Шараф аль-Анам",
-            "Mavlid Sharaful Anam"
-        ],
+        "kitab": "anam",
         "judul": [
             "Qōlat ḥalīmatu",
             "Qōlat ḥalīmatu",
@@ -7919,13 +7463,7 @@
     },
     {
         "id": 77,
-        "kitab": [
-            "Maulid Syaroful Anam",
-            "Mawlid Sharaf al-Anam",
-            "Mawlid Sharaf al-Anam",
-            "Маулид Шараф аль-Анам",
-            "Mavlid Sharaful Anam"
-        ],
+        "kitab": "anam",
         "judul": [
             "Yā Maulidan",
             "Yā Maulidan",
@@ -8107,13 +7645,7 @@
     },
     {
         "id": 78,
-        "kitab": [
-            "Maulid Syaroful Anam",
-            "Mawlid Sharaf al-Anam",
-            "Mawlid Sharaf al-Anam",
-            "Маулид Шараф аль-Анам",
-            "Mavlid Sharaful Anam"
-        ],
+        "kitab": "anam",
         "judul": [
             "Wasammāhu Robbu",
             "Wasammāhu Robbu",
@@ -8154,13 +7686,7 @@
     },
     {
         "id": 79,
-        "kitab": [
-            "Maulid Syaroful Anam",
-            "Mawlid Sharaf al-Anam",
-            "Mawlid Sharaf al-Anam",
-            "Маулид Шараф аль-Анам",
-            "Mavlid Sharaful Anam"
-        ],
+        "kitab": "anam",
         "judul": [
             "Maulāyā Sholli",
             "Maulāyā Sholli",
@@ -8322,13 +7848,7 @@
     },
     {
         "id": 80,
-        "kitab": [
-            "Maulid Syaroful Anam",
-            "Mawlid Sharaf al-Anam",
-            "Mawlid Sharaf al-Anam",
-            "Маулид Шараф аль-Анам",
-            "Mavlid Sharaful Anam"
-        ],
+        "kitab": "anam",
         "judul": [
             "Qōla Abdul Wāḥid",
             "Qōla Abdul Wāḥid",
@@ -8369,13 +7889,7 @@
     },
     {
         "id": 81,
-        "kitab": [
-            "Maulid Syaroful Anam",
-            "Mawlid Sharaf al-Anam",
-            "Mawlid Sharaf al-Anam",
-            "Маулид Шараф аль-Анам",
-            "Mavlid Sharaful Anam"
-        ],
+        "kitab": "anam",
         "judul": [
             "Lā Ilāha Illallōh",
             "Lā Ilāha Illallōh",
@@ -8557,13 +8071,7 @@
     },
     {
         "id": 82,
-        "kitab": [
-            "Maulid Syaroful Anam",
-            "Mawlid Sharaf al-Anam",
-            "Mawlid Sharaf al-Anam",
-            "Маулид Шараф аль-Анам",
-            "Mavlid Sharaful Anam"
-        ],
+        "kitab": "anam",
         "judul": [
             "Faqōlat Innaka",
             "Faqōlat Innaka",
@@ -8604,13 +8112,7 @@
     },
     {
         "id": 83,
-        "kitab": [
-            "Maulid Syaroful Anam",
-            "Mawlid Sharaf al-Anam",
-            "Mawlid Sharaf al-Anam",
-            "Маулид Шараф аль-Анам",
-            "Mavlid Sharaful Anam"
-        ],
+        "kitab": "anam",
         "judul": [
             "Sholātun Wataslīmun",
             "Sholātun Wataslīmun",
@@ -8732,13 +8234,7 @@
     },
     {
         "id": 84,
-        "kitab": [
-            "Maulid Syaroful Anam",
-            "Mawlid Sharaf al-Anam",
-            "Mawlid Sharaf al-Anam",
-            "Маулид Шараф аль-Анам",
-            "Mavlid Sharaful Anam"
-        ],
+        "kitab": "anam",
         "judul": [
             "Fī Ḥubbi Sayyidinā",
             "Fī Ḥubbi Sayyidinā",
@@ -8940,13 +8436,7 @@
     },
     {
         "id": 85,
-        "kitab": [
-            "Maulid Syaroful Anam",
-            "Mawlid Sharaf al-Anam",
-            "Mawlid Sharaf al-Anam",
-            "Маулид Шараф аль-Анам",
-            "Mavlid Sharaful Anam"
-        ],
+        "kitab": "anam",
         "judul": [
             "Shodaqollōhul 'Aliyyul 'Adhīm",
             "Shodaqollōh Al 'Aliyy",
@@ -8987,13 +8477,7 @@
     },
     {
         "id": 86,
-        "kitab": [
-            "Maulid Adhiyaul Lami'",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Маулид ад-Дия аль-Лями",
-            "Mavlid ad-Diya’ al-Lami’"
-        ],
+        "kitab": "adhiya",
         "judul": [
             "Yā Robbi Sholli",
             "Yā Rabbi Shalli",
@@ -9160,13 +8644,7 @@
     },
     {
         "id": 87,
-        "kitab": [
-            "Maulid Adhiyaul Lami'",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Маулид ад-Дия аль-Лями",
-            "Mavlid ad-Diya’ al-Lami’"
-        ],
+        "kitab": "adhiya",
         "judul": [
             "Innā Fataḥnā",
             "Innā Fataḥnā",
@@ -9230,13 +8708,7 @@
     },
     {
         "id": 88,
-        "kitab": [
-            "Maulid Adhiyaul Lami'",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Маулид ад-Дия аль-Лями",
-            "Mavlid ad-Diya’ al-Lami’"
-        ],
+        "kitab": "adhiya",
         "judul": [
             "Alḥamdulillāhilladzī",
             "Alḥamdulillāhilladzī",
@@ -9403,13 +8875,7 @@
     },
     {
         "id": 89,
-        "kitab": [
-            "Maulid Adhiyaul Lami'",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Маулид ад-Дия аль-Лями",
-            "Mavlid ad-Diya’ al-Lami’"
-        ],
+        "kitab": "adhiya",
         "judul": [
             "Nabba-anā",
             "Nabba-anā",
@@ -9566,13 +9032,7 @@
     },
     {
         "id": 90,
-        "kitab": [
-            "Maulid Adhiyaul Lami'",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Маулид ад-Дия аль-Лями",
-            "Mavlid ad-Diya’ al-Lami’"
-        ],
+        "kitab": "adhiya",
         "judul": [
             "Hādzā Waqod",
             "Hādzā Waqod",
@@ -9729,13 +9189,7 @@
     },
     {
         "id": 91,
-        "kitab": [
-            "Maulid Adhiyaul Lami'",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Маулид ад-Дия аль-Лями",
-            "Mavlid ad-Diya’ al-Lami’"
-        ],
+        "kitab": "adhiya",
         "judul": [
             "Lamma Danā",
             "Lamma Danā",
@@ -9921,13 +9375,7 @@
     },
     {
         "id": 92,
-        "kitab": [
-            "Maulid Adhiyaul Lami'",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Маулид ад-Дия аль-Лями",
-            "Mavlid ad-Diya’ al-Lami’"
-        ],
+        "kitab": "adhiya",
         "judul": [
             "Yā Nabī Salām",
             "Yā Nabī Salām",
@@ -10194,13 +9642,7 @@
     },
     {
         "id": 93,
-        "kitab": [
-            "Maulid Adhiyaul Lami'",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Маулид ад-Дия аль-Лями",
-            "Mavlid ad-Diya’ al-Lami’"
-        ],
+        "kitab": "adhiya",
         "judul": [
             "Wulidal Ḥabīb",
             "Wulid al Ḥabīb",
@@ -10377,13 +9819,7 @@
     },
     {
         "id": 94,
-        "kitab": [
-            "Maulid Adhiyaul Lami'",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Маулид ад-Дия аль-Лями",
-            "Mavlid ad-Diya’ al-Lami’"
-        ],
+        "kitab": "adhiya",
         "judul": [
             "Hādā Waqod",
             "Hādā Waqod",
@@ -10560,13 +9996,7 @@
     },
     {
         "id": 95,
-        "kitab": [
-            "Maulid Adhiyaul Lami'",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Маулид ад-Дия аль-Лями",
-            "Mavlid ad-Diya’ al-Lami’"
-        ],
+        "kitab": "adhiya",
         "judul": [
             "Wa-atāhu Jibrīlu",
             "Wa-atāhu Jibrīlu",
@@ -10803,13 +10233,7 @@
     },
     {
         "id": 96,
-        "kitab": [
-            "Maulid Adhiyaul Lami'",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Маулид ад-Дия аль-Лями",
-            "Mavlid ad-Diya’ al-Lami’"
-        ],
+        "kitab": "adhiya",
         "judul": [
             "Doa Maulid",
             "Maulid Prayer",
@@ -10882,13 +10306,7 @@
     },
     {
         "id": 97,
-        "kitab": [
-            "Maulid Adhiyaul Lami'",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Маулид ад-Дия аль-Лями",
-            "Mavlid ad-Diya’ al-Lami’"
-        ],
+        "kitab": "adhiya",
         "judul": [
             "Assalāmu'alaik",
             "Assalāmu'alaik",
@@ -11000,13 +10418,7 @@
     },
     {
         "id": 98,
-        "kitab": [
-            "Maulid Adhiyaul Lami'",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Маулид ад-Дия аль-Лями",
-            "Mavlid ad-Diya’ al-Lami’"
-        ],
+        "kitab": "adhiya",
         "judul": [
             "Qod Kafāni",
             "Qod Kafāni",
@@ -11168,13 +10580,7 @@
     },
     {
         "id": 99,
-        "kitab": [
-            "Maulid Adhiyaul Lami'",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Маулид ад-Дия аль-Лями",
-            "Mavlid ad-Diya’ al-Lami’"
-        ],
+        "kitab": "adhiya",
         "judul": [
             "Allahu Allahu Rabbi",
             "Allahu Allahu Rabbi",
@@ -11246,13 +10652,7 @@
     },
     {
         "id": 100,
-        "kitab": [
-            "Maulid Adhiyaul Lami'",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Маулид ад-Дия аль-Лями",
-            "Mavlid ad-Diya’ al-Lami’"
-        ],
+        "kitab": "adhiya",
         "judul": [
             "Ya Habibi Kaifa Asyqo",
             "Ya Habibi Kaifa Asyqo",
@@ -11324,13 +10724,7 @@
     },
     {
         "id": 101,
-        "kitab": [
-            "Maulid Adhiyaul Lami'",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Маулид ад-Дия аль-Лями",
-            "Mavlid ad-Diya’ al-Lami’"
-        ],
+        "kitab": "adhiya",
         "judul": [
             "Hayyajal Asywaq",
             "Hayyajal Asywaq",
@@ -11402,13 +10796,7 @@
     },
     {
         "id": 102,
-        "kitab": [
-            "Maulid Adhiyaul Lami'",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Маулид ад-Дия аль-Лями",
-            "Mavlid ad-Diya’ al-Lami’"
-        ],
+        "kitab": "adhiya",
         "judul": [
             "Rodhina Yaa Bani Zahra",
             "Rodhina Yaa Bani Zahra",
@@ -11510,13 +10898,7 @@
     },
     {
         "id": 103,
-        "kitab": [
-            "Maulid Adhiyaul Lami'",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Маулид ад-Дия аль-Лями",
-            "Mavlid ad-Diya’ al-Lami’"
-        ],
+        "kitab": "adhiya",
         "judul": [
             "Yaa Nabiyan Min Qidam",
             "Yaa Nabiyan Min Qidam",
@@ -11638,13 +11020,7 @@
     },
     {
         "id": 104,
-        "kitab": [
-            "Maulid Adhiyaul Lami'",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Маулид ад-Дия аль-Лями",
-            "Mavlid ad-Diya’ al-Lami’"
-        ],
+        "kitab": "adhiya",
         "judul": [
             "Fii Hawa",
             "Fii Hawa",
@@ -11716,13 +11092,7 @@
     },
     {
         "id": 105,
-        "kitab": [
-            "Maulid Adhiyaul Lami'",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Маулид ад-Дия аль-Лями",
-            "Mavlid ad-Diya’ al-Lami’"
-        ],
+        "kitab": "adhiya",
         "judul": [
             "Yā Abaz Zahro",
             "Yā Abaz Zahro",
@@ -11804,13 +11174,7 @@
     },
     {
         "id": 106,
-        "kitab": [
-            "Maulid Adhiyaul Lami'",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Маулид ад-Дия аль-Лями",
-            "Mavlid ad-Diya’ al-Lami’"
-        ],
+        "kitab": "adhiya",
         "judul": [
             "Daūni Daūni",
             "Daūni Daūni",
@@ -11912,13 +11276,7 @@
     },
     {
         "id": 107,
-        "kitab": [
-            "Maulid Adhiyaul Lami'",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Маулид ад-Дия аль-Лями",
-            "Mavlid ad-Diya’ al-Lami’"
-        ],
+        "kitab": "adhiya",
         "judul": [
             "Qolbi Yunādi Yā Rabb",
             "Qolbi Yunādi Yā Rabb",
@@ -11990,13 +11348,7 @@
     },
     {
         "id": 108,
-        "kitab": [
-            "Maulid Adhiyaul Lami'",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Маулид ад-Дия аль-Лями",
-            "Mavlid ad-Diya’ al-Lami’"
-        ],
+        "kitab": "adhiya",
         "judul": [
             "Akṡir Ukhoyya",
             "Akṡir Ukhoyya",
@@ -12088,13 +11440,7 @@
     },
     {
         "id": 109,
-        "kitab": [
-            "Maulid Adhiyaul Lami'",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Маулид ад-Дия аль-Лями",
-            "Mavlid ad-Diya’ al-Lami’"
-        ],
+        "kitab": "adhiya",
         "judul": [
             "Innal Habibal Mushthofa",
             "Innal Habibal Mushthofa",
@@ -12206,13 +11552,7 @@
     },
     {
         "id": 110,
-        "kitab": [
-            "Maulid Adhiyaul Lami'",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Маулид ад-Дия аль-Лями",
-            "Mavlid ad-Diya’ al-Lami’"
-        ],
+        "kitab": "adhiya",
         "judul": [
             "Sidnan Nabi",
             "Sidnan Nabi",
@@ -12344,13 +11684,7 @@
     },
     {
         "id": 111,
-        "kitab": [
-            "Maulid Adhiyaul Lami'",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Маулид ад-Дия аль-Лями",
-            "Mavlid ad-Diya’ al-Lami’"
-        ],
+        "kitab": "adhiya",
         "judul": [
             "Yā 'Izzana",
             "Yā 'Izzana",
@@ -12582,13 +11916,7 @@
     },
     {
         "id": 112,
-        "kitab": [
-            "Maulid Adhiyaul Lami'",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Маулид ад-Дия аль-Лями",
-            "Mavlid ad-Diya’ al-Lami’"
-        ],
+        "kitab": "adhiya",
         "judul": [
             "Ummi",
             "Ummi",
@@ -12690,13 +12018,7 @@
     },
     {
         "id": 113,
-        "kitab": [
-            "Maulid Adhiyaul Lami'",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Маулид ад-Дия аль-Лями",
-            "Mavlid ad-Diya’ al-Lami’"
-        ],
+        "kitab": "adhiya",
         "judul": [
             "Busyro Lana",
             "Busyro Lana",
@@ -12828,13 +12150,7 @@
     },
     {
         "id": 114,
-        "kitab": [
-            "Maulid Adhiyaul Lami'",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Маулид ад-Дия аль-Лями",
-            "Mavlid ad-Diya’ al-Lami’"
-        ],
+        "kitab": "adhiya",
         "judul": [
             "Yā Sayyidi Khudz Biyadi",
             "Yā Sayyidi Khudz Biyadi",
@@ -12966,13 +12282,7 @@
     },
     {
         "id": 115,
-        "kitab": [
-            "Maulid Adhiyaul Lami'",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Маулид ад-Дия аль-Лями",
-            "Mavlid ad-Diya’ al-Lami’"
-        ],
+        "kitab": "adhiya",
         "judul": [
             "Sholatullōhi Dzil Karomi",
             "Sholatullōhi Dzil Karomi",
@@ -13204,13 +12514,7 @@
     },
     {
         "id": 116,
-        "kitab": [
-            "Maulid Adhiyaul Lami'",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Маулид ад-Дия аль-Лями",
-            "Mavlid ad-Diya’ al-Lami’"
-        ],
+        "kitab": "adhiya",
         "judul": [
             "Birasulillahi Wal Badawi",
             "Birasulillahi Wal Badawi",
@@ -13342,13 +12646,7 @@
     },
     {
         "id": 117,
-        "kitab": [
-            "Maulid Adhiyaul Lami'",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Маулид ад-Дия аль-Лями",
-            "Mavlid ad-Diya’ al-Lami’"
-        ],
+        "kitab": "adhiya",
         "judul": [
             "Yā Thoybah",
             "Yā Thoybah",
@@ -13500,13 +12798,7 @@
     },
     {
         "id": 118,
-        "kitab": [
-            "Maulid Adhiyaul Lami'",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Маулид ад-Дия аль-Лями",
-            "Mavlid ad-Diya’ al-Lami’"
-        ],
+        "kitab": "adhiya",
         "judul": [
             "Sholawatullahi Taghsya",
             "Sholawatullahi Taghsya",
@@ -13758,13 +13050,7 @@
     },
     {
         "id": 119,
-        "kitab": [
-            "Maulid Adhiyaul Lami'",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Маулид ад-Дия аль-Лями",
-            "Mavlid ad-Diya’ al-Lami’"
-        ],
+        "kitab": "adhiya",
         "judul": [
             "Muhammadun (Burdah)",
             "Muhammadun (Burdah)",
@@ -13886,13 +13172,7 @@
     },
     {
         "id": 120,
-        "kitab": [
-            "Maulid Adhiyaul Lami'",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Маулид ад-Дия аль-Лями",
-            "Mavlid ad-Diya’ al-Lami’"
-        ],
+        "kitab": "adhiya",
         "judul": [
             "Ajib Daiyal Maula",
             "Ajib Daiyal Maula",
@@ -14064,13 +13344,7 @@
     },
     {
         "id": 121,
-        "kitab": [
-            "Maulid Adhiyaul Lami'",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Маулид ад-Дия аль-Лями",
-            "Mavlid ad-Diya’ al-Lami’"
-        ],
+        "kitab": "adhiya",
         "judul": [
             "Allahu Allahu Yaa Allahu",
             "Allahu Allahu Yaa Allahu",
@@ -14212,13 +13486,7 @@
     },
     {
         "id": 122,
-        "kitab": [
-            "Maulid Adhiyaul Lami'",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Маулид ад-Дия аль-Лями",
-            "Mavlid ad-Diya’ al-Lami’"
-        ],
+        "kitab": "adhiya",
         "judul": [
             "Robbi Kholaq Thohā",
             "Robbi Kholaq Thohā",
@@ -14310,13 +13578,7 @@
     },
     {
         "id": 123,
-        "kitab": [
-            "Maulid Adhiyaul Lami'",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Маулид ад-Дия аль-Лями",
-            "Mavlid ad-Diya’ al-Lami’"
-        ],
+        "kitab": "adhiya",
         "judul": [
             "Sholawat Badar",
             "Shalawat Badar",
@@ -14628,13 +13890,7 @@
     },
     {
         "id": 124,
-        "kitab": [
-            "Maulid Adhiyaul Lami'",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Маулид ад-Дия аль-Лями",
-            "Mavlid ad-Diya’ al-Lami’"
-        ],
+        "kitab": "adhiya",
         "judul": [
             "Waqtus Sahar",
             "Waqtus Sahar",
@@ -14756,13 +14012,7 @@
     },
     {
         "id": 125,
-        "kitab": [
-            "Maulid Adhiyaul Lami'",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Маулид ад-Дия аль-Лями",
-            "Mavlid ad-Diya’ al-Lami’"
-        ],
+        "kitab": "adhiya",
         "judul": [
             "Bi Fathimah",
             "Bi Fathimah",
@@ -14954,13 +14204,7 @@
     },
     {
         "id": 126,
-        "kitab": [
-            "Maulid Adhiyaul Lami'",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Маулид ад-Дия аль-Лями",
-            "Mavlid ad-Diya’ al-Lami’"
-        ],
+        "kitab": "adhiya",
         "judul": [
             "Ya Allahu Biha",
             "Ya Allahu Biha",
@@ -15142,13 +14386,7 @@
     },
     {
         "id": 127,
-        "kitab": [
-            "Maulid Adhiyaul Lami'",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Маулид ад-Дия аль-Лями",
-            "Mavlid ad-Diya’ al-Lami’"
-        ],
+        "kitab": "adhiya",
         "judul": [
             "Qodis Ta Antuka",
             "Qodis Ta Antuka",
@@ -15280,13 +14518,7 @@
     },
     {
         "id": 128,
-        "kitab": [
-            "Maulid Adhiyaul Lami'",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Mawlid ad-Dhiya’ al-Lami’",
-            "Маулид ад-Дия аль-Лями",
-            "Mavlid ad-Diya’ al-Lami’"
-        ],
+        "kitab": "adhiya",
         "judul": [
             "Yā Sayyidi Yā Rasulullah",
             "Yā Sayyidi Yā Rasulullah",
@@ -15438,13 +14670,7 @@
     },
     {
         "id": 129,
-        "kitab": [
-            "Maulid Simthudduror",
-            "Mawlid Simtud Durar",
-            "Mawlid Simthudduror",
-            "Маулид Симтуд-Дурор",
-            "Mavlid Simtud Duror"
-        ],
+        "kitab": "duror",
         "judul": [
             "Asholātul ūlā",
             "Asholāt Al ūlā",
@@ -15650,13 +14876,7 @@
     },
     {
         "id": 130,
-        "kitab": [
-            "Maulid Simthudduror",
-            "Mawlid Simtud Durar",
-            "Mawlid Simthudduror",
-            "Маулид Симтуд-Дурор",
-            "Mavlid Simtud Duror"
-        ],
+        "kitab": "duror",
         "judul": [
             "Asholātuṡ Ṡānī",
             "Asholāt Ath-Thānī",
@@ -15832,13 +15052,7 @@
     },
     {
         "id": 131,
-        "kitab": [
-            "Maulid Simthudduror",
-            "Mawlid Simtud Durar",
-            "Mawlid Simthudduror",
-            "Маулид Симтуд-Дурор",
-            "Mavlid Simtud Duror"
-        ],
+        "kitab": "duror",
         "judul": [
             "Inna Fataḥnā",
             "Inna Fataḥnā",
@@ -15913,13 +15127,7 @@
     },
     {
         "id": 132,
-        "kitab": [
-            "Maulid Simthudduror",
-            "Mawlid Simtud Durar",
-            "Mawlid Simthudduror",
-            "Маулид Симтуд-Дурор",
-            "Mavlid Simtud Duror"
-        ],
+        "kitab": "duror",
         "judul": [
             "Assamu'alaik",
             "Assamu'alaik",
@@ -16215,13 +15423,7 @@
     },
     {
         "id": 133,
-        "kitab": [
-            "Maulid Simthudduror",
-            "Mawlid Simtud Durar",
-            "Mawlid Simthudduror",
-            "Маулид Симтуд-Дурор",
-            "Mavlid Simtud Duror"
-        ],
+        "kitab": "duror",
         "judul": [
             "Alḥamdulillāhi",
             "Alḥamdulillāhi",
@@ -16269,13 +15471,7 @@
     },
     {
         "id": 134,
-        "kitab": [
-            "Maulid Simthudduror",
-            "Mawlid Simtud Durar",
-            "Mawlid Simthudduror",
-            "Маулид Симтуд-Дурор",
-            "Mavlid Simtud Duror"
-        ],
+        "kitab": "duror",
         "judul": [
             "Tajallal Ḥaqqu",
             "Tajalla Al Ḥaqqu",
@@ -16388,13 +15584,7 @@
     },
     {
         "id": 135,
-        "kitab": [
-            "Maulid Simthudduror",
-            "Mawlid Simtud Durar",
-            "Mawlid Simthudduror",
-            "Маулид Симтуд-Дурор",
-            "Mavlid Simtud Duror"
-        ],
+        "kitab": "duror",
         "judul": [
             "Wa Asyhadu",
             "Wa Asyhadu",
@@ -16460,13 +15650,7 @@
     },
     {
         "id": 136,
-        "kitab": [
-            "Maulid Simthudduror",
-            "Mawlid Simtud Durar",
-            "Mawlid Simthudduror",
-            "Маулид Симтуд-Дурор",
-            "Mavlid Simtud Duror"
-        ],
+        "kitab": "duror",
         "judul": [
             "Falammā Ta'allaqot",
             "Falammā Ta'allaqot",
@@ -16550,13 +15734,7 @@
     },
     {
         "id": 137,
-        "kitab": [
-            "Maulid Simthudduror",
-            "Mawlid Simtud Durar",
-            "Mawlid Simthudduror",
-            "Маулид Симтуд-Дурор",
-            "Mavlid Simtud Duror"
-        ],
+        "kitab": "duror",
         "judul": [
             "Waqod Āna",
             "Waqod Āna",
@@ -16649,13 +15827,7 @@
     },
     {
         "id": 138,
-        "kitab": [
-            "Maulid Simthudduror",
-            "Mawlid Simtud Durar",
-            "Mawlid Simthudduror",
-            "Маулид Симтуд-Дурор",
-            "Mavlid Simtud Duror"
-        ],
+        "kitab": "duror",
         "judul": [
             "Wamundzu 'Aliqot",
             "Wamundzu 'Aliqot",
@@ -16703,13 +15875,7 @@
     },
     {
         "id": 139,
-        "kitab": [
-            "Maulid Simthudduror",
-            "Mawlid Simtud Durar",
-            "Mawlid Simthudduror",
-            "Маулид Симтуд-Дурор",
-            "Mavlid Simtud Duror"
-        ],
+        "kitab": "duror",
         "judul": [
             "Faḥīna Quroba",
             "Faḥīna Quraba",
@@ -16775,13 +15941,7 @@
     },
     {
         "id": 140,
-        "kitab": [
-            "Maulid Simthudduror",
-            "Mawlid Simtud Durar",
-            "Mawlid Simthudduror",
-            "Маулид Симтуд-Дурор",
-            "Mavlid Simtud Duror"
-        ],
+        "kitab": "duror",
         "judul": [
             "Maḥallul Qiyām 1",
             "Maḥal Al Qiyām 1",
@@ -17197,13 +16357,7 @@
     },
     {
         "id": 141,
-        "kitab": [
-            "Maulid Simthudduror",
-            "Mawlid Simtud Durar",
-            "Mawlid Simthudduror",
-            "Маулид Симтуд-Дурор",
-            "Mavlid Simtud Duror"
-        ],
+        "kitab": "duror",
         "judul": [
             "Maḥallul Qiyām 2",
             "Maḥal Al Qiyām 2",
@@ -17373,13 +16527,7 @@
     },
     {
         "id": 142,
-        "kitab": [
-            "Maulid Simthudduror",
-            "Mawlid Simtud Durar",
-            "Mawlid Simthudduror",
-            "Маулид Симтуд-Дурор",
-            "Mavlid Simtud Duror"
-        ],
+        "kitab": "duror",
         "judul": [
             "Waḥīna Baroza",
             "Waḥīna Baroza",
@@ -17436,13 +16584,7 @@
     },
     {
         "id": 143,
-        "kitab": [
-            "Maulid Simthudduror",
-            "Mawlid Simtud Durar",
-            "Mawlid Simthudduror",
-            "Маулид Симтуд-Дурор",
-            "Mavlid Simtud Duror"
-        ],
+        "kitab": "duror",
         "judul": [
             "Ṡumma Innahu",
             "Thumma Innahu",
@@ -17517,13 +16659,7 @@
     },
     {
         "id": 144,
-        "kitab": [
-            "Maulid Simthudduror",
-            "Mawlid Simtud Durar",
-            "Mawlid Simthudduror",
-            "Маулид Симтуд-Дурор",
-            "Mavlid Simtud Duror"
-        ],
+        "kitab": "duror",
         "judul": [
             "Fanasya'a",
             "Fanasya'a",
@@ -17580,13 +16716,7 @@
     },
     {
         "id": 145,
-        "kitab": [
-            "Maulid Simthudduror",
-            "Mawlid Simtud Durar",
-            "Mawlid Simthudduror",
-            "Маулид Симтуд-Дурор",
-            "Mavlid Simtud Duror"
-        ],
+        "kitab": "duror",
         "judul": [
             "Ṡumma Innahu Ba'da",
             "Thumma Innahu Ba'da",
@@ -17652,13 +16782,7 @@
     },
     {
         "id": 146,
-        "kitab": [
-            "Maulid Simthudduror",
-            "Mawlid Simtud Durar",
-            "Mawlid Simthudduror",
-            "Маулид Симтуд-Дурор",
-            "Mavlid Simtud Duror"
-        ],
+        "kitab": "duror",
         "judul": [
             "Waninasy Syarfi",
             "Waninasy Syarfi",
@@ -17724,13 +16848,7 @@
     },
     {
         "id": 147,
-        "kitab": [
-            "Maulid Simthudduror",
-            "Mawlid Simtud Durar",
-            "Mawlid Simthudduror",
-            "Маулид Симтуд-Дурор",
-            "Mavlid Simtud Duror"
-        ],
+        "kitab": "duror",
         "judul": [
             "Waḥaiṡu Tasyarrofati",
             "Waḥaiṡu Tasyarrofati",
@@ -17814,13 +16932,7 @@
     },
     {
         "id": 148,
-        "kitab": [
-            "Maulid Simthudduror",
-            "Mawlid Simtud Durar",
-            "Mawlid Simthudduror",
-            "Маулид Симтуд-Дурор",
-            "Mavlid Simtud Duror"
-        ],
+        "kitab": "duror",
         "judul": [
             "Walaqodit Tashofa",
             "Walaqodit Tashofa",
@@ -17877,13 +16989,7 @@
     },
     {
         "id": 149,
-        "kitab": [
-            "Maulid Simthudduror",
-            "Mawlid Simtud Durar",
-            "Mawlid Simthudduror",
-            "Маулид Симтуд-Дурор",
-            "Mavlid Simtud Duror"
-        ],
+        "kitab": "duror",
         "judul": [
             "Doa Maulid",
             "Maulid Prayer",
@@ -17973,13 +17079,7 @@
     },
     {
         "id": 150,
-        "kitab": [
-            "Qasidah Burdah",
-            "Qasida al-Burdah",
-            "Qasida al-Burdah",
-            "Касыда аль-Бурда",
-            "Qasida al-Burda"
-        ],
+        "kitab": "burdah",
         "judul": [
             "Maula Yā Sholli",
             "Maula Yā Sholli",
@@ -18151,13 +17251,7 @@
     },
     {
         "id": 151,
-        "kitab": [
-            "Qasidah Burdah",
-            "Qasida al-Burdah",
-            "Qasida al-Burdah",
-            "Касыда аль-Бурда",
-            "Qasida al-Burda"
-        ],
+        "kitab": "burdah",
         "judul": [
             "Amintadzakkuriji",
             "Amintadzakkuriji",
@@ -18314,13 +17408,7 @@
     },
     {
         "id": 152,
-        "kitab": [
-            "Qasidah Burdah",
-            "Qasida al-Burdah",
-            "Qasida al-Burdah",
-            "Касыда аль-Бурда",
-            "Qasida al-Burda"
-        ],
+        "kitab": "burdah",
         "judul": [
             "Fa-inna Ammarotī",
             "Fa-inna Ammarotī",
@@ -18517,13 +17605,7 @@
     },
     {
         "id": 153,
-        "kitab": [
-            "Qasidah Burdah",
-            "Qasida al-Burdah",
-            "Qasida al-Burdah",
-            "Касыда аль-Бурда",
-            "Qasida al-Burda"
-        ],
+        "kitab": "burdah",
         "judul": [
             "Dholamtu Sunnata",
             "Dholamtu Sunnata",
@@ -18870,13 +17952,7 @@
     },
     {
         "id": 154,
-        "kitab": [
-            "Qasidah Burdah",
-            "Qasida al-Burdah",
-            "Qasida al-Burdah",
-            "Касыда аль-Бурда",
-            "Qasida al-Burda"
-        ],
+        "kitab": "burdah",
         "judul": [
             "Abāna Mauliduhū",
             "Abāna Mauliduhū",
@@ -19043,13 +18119,7 @@
     },
     {
         "id": 155,
-        "kitab": [
-            "Qasidah Burdah",
-            "Qasida al-Burdah",
-            "Qasida al-Burdah",
-            "Касыда аль-Бурда",
-            "Qasida al-Burda"
-        ],
+        "kitab": "burdah",
         "judul": [
             "Jā-at Lida'watihi",
             "Jā-at Lida'watihi",
@@ -19236,13 +18306,7 @@
     },
     {
         "id": 156,
-        "kitab": [
-            "Qasidah Burdah",
-            "Qasida al-Burdah",
-            "Qasida al-Burdah",
-            "Касыда аль-Бурда",
-            "Qasida al-Burda"
-        ],
+        "kitab": "burdah",
         "judul": [
             "Faddurru Yazdādu",
             "Faddurru Yazdādu",
@@ -19449,13 +18513,7 @@
     },
     {
         "id": 157,
-        "kitab": [
-            "Qasidah Burdah",
-            "Qasida al-Burdah",
-            "Qasida al-Burdah",
-            "Касыда аль-Бурда",
-            "Qasida al-Burda"
-        ],
+        "kitab": "burdah",
         "judul": [
             "Yā Khoiro Man Yattama",
             "Yā Khoiro Man Yattama",
@@ -19612,13 +18670,7 @@
     },
     {
         "id": 158,
-        "kitab": [
-            "Qasidah Burdah",
-            "Qasida al-Burdah",
-            "Qasida al-Burdah",
-            "Касыда аль-Бурда",
-            "Qasida al-Burda"
-        ],
+        "kitab": "burdah",
         "judul": [
             "Rōát Qulūba",
             "Rōát Qulūba",
@@ -19875,13 +18927,7 @@
     },
     {
         "id": 159,
-        "kitab": [
-            "Qasidah Burdah",
-            "Qasida al-Burdah",
-            "Qasida al-Burdah",
-            "Касыда аль-Бурда",
-            "Qasida al-Burda"
-        ],
+        "kitab": "burdah",
         "judul": [
             "Khodamtuhū",
             "Khodamtuhū",
@@ -20038,13 +19084,7 @@
     },
     {
         "id": 160,
-        "kitab": [
-            "Qasidah Burdah",
-            "Qasida al-Burdah",
-            "Qasida al-Burdah",
-            "Касыда аль-Бурда",
-            "Qasida al-Burda"
-        ],
+        "kitab": "burdah",
         "judul": [
             "Yā Akromal Kholqi",
             "Yā Akromal Kholqi",
@@ -20241,13 +19281,7 @@
     },
     {
         "id": 161,
-        "kitab": [
-            "Qasidah Burdah",
-            "Qasida al-Burdah",
-            "Qasida al-Burdah",
-            "Касыда аль-Бурда",
-            "Qasida al-Burda"
-        ],
+        "kitab": "burdah",
         "judul": [
             "Allåhummasyroh",
             "Allåhummasyroh",
