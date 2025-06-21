@@ -7,7 +7,7 @@
     "content": [
       {
         "type": "arabic",
-        "ay": [
+        "ayat": [
           "يٰسٓ ۝1",
           "وَالْقُرْاٰنِ الْحَكِيْمِ ۝2",
           "اِنَّكَ لَمِنَ الْمُرْسَلِيْنَۙ ۝3",
@@ -92,7 +92,7 @@
           "اِنَّمَاۤ اَمْرُهٗۤ اِذَاۤ اَرَادَ شَیْئًا اَنْ يَّقُوْلَ لَهٗ كُنْ فَيَكُوْنُ ۝82",
           "فَسُبْحٰنَ الَّذِىْ بِيَدِهٖ مَلَـكُوْتُ كُلِّ شَىْءٍ وَّاِلَيْهِ تُرْجَعُوْنَ ۝83"
         ],
-        "la": [
+        "lafadz": [
           "Yā Sīn",
           "Walqur-ānil ḥakīm",
           "Innaka laminal mursalīn",
@@ -177,7 +177,7 @@
           "Innamā amruhū idzā arōda syai-an ay-yaqūlu lahū kun fayakūn",
           "Fasub-ḥānal-ladzī biyadihī malakūtu kulli syai-iw wa-ilaihi turja'ūn"
         ],
-        "id": [
+        "arti": [
           "Yaa Sin",
           "Demi Al-Qur'an yang penuh hikmah,",
           "sungguh, engkau (Muhammad adalah salah seorang dari rasul-rasul,",
@@ -273,7 +273,7 @@
     "content": [
       {
         "type": "arabic",
-        "ay": [
+        "ayat": [
           "تَبٰرَكَ الَّذِيْ بِيَدِهِ الْمُلْكُۖ وَهُوَ عَلٰى كُلِّ شَيْءٍ قَدِيْرٌۙ ۝1",
           "الَّذِيْ خَلَقَ الْمَوْتَ وَالْحَيٰوةَ لِيَبْلُوَكُمْ اَيُّكُمْ اَحْسَنُ عَمَلًاۗ وَهُوَ الْعَزِيْزُ الْغَفُوْرُۙ ۝2",
           "الَّذِيْ خَلَقَ سَبْعَ سَمٰوٰتٍ طِبَاقًاۗ مَا تَرٰى فِيْ خَلْقِ الرَّحْمٰنِ مِنْ تَفٰوُتٍۗ فَارْجِعِ الْبَصَرَۙ هَلْ تَرٰى مِنْ فُطُوْرٍ ۝3",
@@ -305,7 +305,7 @@
           "قُلْ هُوَ الرَّحْمٰنُ اٰمَنَّا بِهٖ وَعَلَيْهِ تَوَكَّلْنَاۚ فَسَتَعْلَمُوْنَ مَنْ هُوَ فِيْ ضَلٰلٍ مُّبِيْنٍ ۝29",
           "قُلْ اَرَءَيْتُمْ اِنْ اَصْبَحَ مَاۤؤُكُمْ غَوْرًا فَمَنْ يَّأْتِيْكُمْ بِمَاۤءٍ مَّعِيْنٍ ۝30"
         ],
-        "la": [
+        "lafadz": [
           "Tabārokal-ladzī biyadihil-mulk(u), wa huwa ‘alā kulli syai'in qodīr(un).",
           "Alladzī kholaqol-mauta wal-ḥayāta liyabluwakum ayyukum aḥsanu ‘amalā(n), wa huwal-‘azīzul-ghofūr(u).",
           "Alladzī kholaqo sab‘a samāwātin thibāqō(n), mā tarō fī kholqir-roḥmāni min tafāwut(in), farji‘il-bashoro hal tarō min futhūr(in).",
@@ -337,7 +337,7 @@
           "Qul huwar-roḥmānu āmannā bihī wa ‘alaihi tawakkalnā, fasata‘lamūna man huwa fī dlolālim mubīn(in).",
           "Qul aro'aitum in aṣbaḥa mā'ukum ghouron famay ya'tīkum bimā'im ma‘īn(in)."
         ],
-        "id": [
+        "arti": [
           "Mahasuci Allah yang menguasai (segala) kerajaan, dan Dia Mahakuasa atas segala sesuatu.",
           "Yang menciptakan mati dan hidup, untuk menguji kamu, siapa di antara kamu yang lebih baik amalnya. Dan Dia Mahaperkasa, Maha Pengampun.",
           "Yang menciptakan tujuh langit berlapis-lapis. Tidak akan kamu lihat sesuatu yang tidak seimbang pada ciptaan Tuhan Yang Maha Pengasih. Maka lihatlah sekali lagi, adakah kamu lihat sesuatu yang cacat?",
@@ -380,7 +380,7 @@
     "content": [
       {
         "type": "arabic",
-        "ay": [
+        "ayat": [
           "اَلْحَمْدُ لِلّٰهِ الَّذِيْٓ اَنْزَلَ عَلٰى عَبْدِهِ الْكِتٰبَ وَلَمْ يَجْعَلْ لَّهٗ عِوَجًا ۜ ۝1",
           "قَيِّمًا لِّيُنْذِرَ بَأْسًا شَدِيْدًا مِّنْ لَّدُنْهُ وَيُبَشِّرَ الْمُؤْمِنِيْنَ الَّذِيْنَ يَعْمَلُوْنَ الصّٰلِحٰتِ اَنَّ لَهُمْ اَجْرًا حَسَنًاۙ ۝2",
           "مّٰكِثِيْنَ فِيْهِ اَبَدًاۙ ۝3",
@@ -492,7 +492,7 @@
           "قُلْ لَّوْ كَانَ الْبَحْرُ مِدَادًا لِّكَلِمٰتِ رَبِّيْ لَنَفِدَ الْبَحْرُ قَبْلَ اَنْ تَنْفَدَ كَلِمٰتُ رَبِّيْ وَلَوْ جِئْنَا بِمِثْلِهٖ مَدَدًا ۝109",
           "قُلْ اِنَّمَآ اَنَا۠ بَشَرٌ مِّثْلُكُمْ يُوْحٰٓى اِلَيَّ اَنَّمَآ اِلٰهُكُمْ اِلٰهٌ وَّاحِدٌۚ فَمَنْ كَانَ يَرْجُوْا لِقَاۤءَ رَبِّهٖ فَلْيَعْمَلْ عَمَلًا صَالِحًا وَّلَا يُشْرِكْ بِعِبَادَةِ رَبِّهٖٓ اَحَدًا ࣖ ۝110"
         ],
-        "la": [
+        "lafadz": [
           "Al-ḥamdu lillāhil-ladzī anzala ‘alā ‘abdihil-kitāba wa lam yaj‘al lahū ‘iwajā(n).",
           "Qoyyimal liyundzro ba'san syadīdam mil ladunhu wa yubasysyirol-mu'minīnal-ladzīna ya‘malūnaṣ-shōliḥāti anna lahum ajron ḥasanā(n).",
           "Mākiṡīna fīhi abadā(n).",
@@ -604,7 +604,7 @@
           "Qul lau kānal-baḥru midādal likalimāti robbī lanafidal-baḥru qobla an tanfada kalimāṭu robbī wa lau ji'nā bimiṡlihī madadā(n).",
           "Qul innamā ana basyarum miṡlukum yūḥā ilayya annamā ilāhukum ilāhuw wāḥid(un), faman kāna yarjū liqā'a robbihī falya‘mal ‘amalan ṣāliḥaw wa lā yusyrik bi‘ibādati robbihī aḥadā(n)."
         ],
-        "id": [
+        "arti": [
           "Segala puji bagi Allah yang telah menurunkan Kitab Suci (Al-Qur’an) kepada hamba-Nya dan Dia tidak membuat padanya sedikit pun kebengkokan.",
           "(Dia juga menjadikannya kitab) yang lurus agar Dia memberi peringatan akan siksa yang sangat pedih dari sisi-Nya dan memberi kabar gembira kepada orang-orang mukmin yang mengerjakan kebajikan bahwa mereka akan mendapat balasan yang baik.",
           "Mereka kekal di dalamnya untuk selama-lamanya.",
@@ -727,7 +727,7 @@
     "content": [
       {
         "type": "arabic",
-        "ay": [
+        "ayat": [
           "اِذَا وَقَعَتِ الْوَاقِعَةُۙ ۝1",
           "لَيْسَ لِوَقْعَتِهَا كَاذِبَةٌ ۘ ۝2",
           "خَافِضَةٌ رَّافِعَةٌ ۝3",
@@ -825,7 +825,7 @@
           "اِنَّ هٰذَا لَهُوَ حَقُّ الْيَقِيْنِۚ ۝95",
           "فَسَبِّحْ بِاسْمِ رَبِّكَ الْعَظِيْمِ ࣖ ۝96"
         ],
-        "la": [
+        "lafadz": [
           "Iżā waqa‘atil-wāqi‘ah(tu).",
           "Laisa liwaq‘atihā kāżibah(tun).",
           "Khāfiḍatur rāfi‘ah(tun).",
@@ -923,7 +923,7 @@
           "Inna hāżā lahuwal-ḥaqqul-yaqīn(i).",
           "Fa sabbiḥ bismi rabbikal-‘aẓīm(i)."
         ],
-        "id": [
+        "arti": [
           "Apabila terjadi hari Kiamat (yang pasti terjadi),",
           "tidak ada seorang pun yang (dapat) mendustakan terjadinya.",
           "(Kejadian itu) merendahkan (satu golongan) dan meninggikan (golongan yang lain).",
@@ -1032,7 +1032,7 @@
     "content": [
       {
         "type": "arabic",
-        "ay": [
+        "ayat": [
           "الۤمّۤ ۗ ۝1",
           "تَنْزِيْلُ الْكِتٰبِ لَا رَيْبَ فِيْهِ مِنْ رَّبِّ الْعٰلَمِيْنَۗ ۝2",
           "اَمْ يَقُوْلُوْنَ افْتَرٰىهُ ۚ بَلْ هُوَ الْحَقُّ مِنْ رَّبِّكَ لِتُنْذِرَ قَوْمًا مَّآ اَتٰىهُمْ مِّنْ نَّذِيْرٍ مِّنْ قَبْلِكَ لَعَلَّهُمْ يَهْتَدُوْنَ ۝3",
@@ -1064,7 +1064,7 @@
           "قُلْ يَوْمَ الْفَتْحِ لَا يَنْفَعُ الَّذِيْنَ كَفَرُوْٓا اِيْمَانُهُمْ وَلَا هُمْ يُنْظَرُوْنَ ۝29",
           "فَاَعْرِضْ عَنْهُمْ وَانْتَظِرْ اِنَّهُمْ مُّنْتَظِرُوْنَ ࣖ ۝30"
         ],
-        "la": [
+        "lafadz": [
           "Alif lām mīm.",
           "Tanzīlul-kitābi lā raiba fīhi mir rabbil-‘ālamīn(a).",
           "Am yaqūlūnaftarāhu balhuwal-ḥaqqu mir rabbika litunżira qaumam mā atāhum min nażīrim min qablika la‘allahum yahtadūn(a).",
@@ -1096,7 +1096,7 @@
           "Qul yaumal-fatḥi lā yanfa‘ul-lażīna kafarū īmānuhum wa lā hum yunẓarūn(a).",
           "Fa a‘riḍ ‘anhum wantaẓir innahum muntaẓirūn(a)."
         ],
-        "id": [
+        "arti": [
           "Alif Lām Mīm.",
           "Turunnya Al-Qur’an yang tidak ada keraguan di dalamnya berasal dari Tuhan semesta alam.",
           "Akan tetapi, mengapa mereka (orang kafir) mengatakan, “Dia (Nabi Muhammad) telah mengada-adakannya.” Sebaliknya, Al-Qur’an itulah kebenaran (yang datang) dari Tuhanmu agar engkau memberi peringatan kepada kaum yang sama sekali belum pernah didatangi seorang pemberi peringatan sebelum engkau. (Demikian ini) agar mereka mendapat petunjuk.",
