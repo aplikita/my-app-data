@@ -5,18 +5,18 @@
     "sub": "Bacaan Sebelum Yasin Fadilah",
     "content": [
       {
-        "type": "arabic",
-        "ay": [
+        "type": "tawassul",
+        "ayat": [
           "اَشْهَدُ اَنْ لَا اِلٰهَ اِلَّا اللّٰهُ وَاَشْهَدُ اَنَّ مُحَمَّدً رَسُوْلُ اللّٰهِ صَلَّى اللّٰهُ عَلَيْهِ وَسَلَّمَ * ",
           "اَلْفَاتِحَةُ اِلٰى حَضْرَةِ رَسُوْلِ اللّٰهِ سَيِّدِنَا مُحَمَّدٍ صَلَّى اللّٰهُ عَلَيْهِ وَسَلَّمَ وَاٰلِهٖ وَاَزْوَاجِهٖ وَذُرِيَّتِهٖ وَاَهْلِ بَيْتِهٖ الطَّيِّبِيْنَ الطَّاهِرِيْنَ وَاَصْحَابِهِ الْاَكْرَمِيْنَ * ",
           "وَسَائِرِ الْاَنْبِيَاءِ وَالْمُرْسَلِيْنَ وَالْمَلَائِكَةِ الْمُقَرَّبِيْنَ وَعِبَادِاللّٰهِ الصَّالِحِيْنَ * اَلْفَاتِحَةُ *"
         ],
-        "la": [
+        "lafadz": [
           "Asy hadu allaa ilaaha illallōhu wa-asy hadu anna Muḥammadar rosūlullōhi shollallōhu 'alaihi wasallam",
           "Alfātiḥatu ilā ḥadlroti rosūlillāhi sayyidinā Muḥammadin shollallōhu 'alaihi wasallama wa-ālihī wa-azwājihī wadzuriyyatihī wa-ahli baitihith thoyyibīnath thōhirīna wa-ash ḥābihil akromīn.",
           "wa sā-iril ambiyā-i wal mursalīna wal malā-ikatil muqorribīna wa'ibādillāhish shōliḥīn."
         ],
-        "id": [
+        "arti": [
           "Aku bersaksi bahwa tidak ada Tuhan selain Allah, dan aku bersaksi bahwa Muhammad adalah utusan Allah, semoga shalawat dan salam tercurah kepadanya.",
           "Al-Fatihah untuk hadirat Rasulullah, junjungan kami, Muhammad ﷺ, serta keluarga beliau, istri-istri beliau, keturunan beliau, dan ahlul bait beliau yang suci lagi terhormat, serta sahabat-sahabat beliau yang mulia.",
           "Dan untuk seluruh nabi dan rasul, serta malaikat-malaikat yang dekat dengan Allah, dan hamba-hamba Allah yang saleh."
@@ -30,8 +30,8 @@
     "sub": "Berisi Bacaan Yasin Fadilah",
     "content": [
       {
-        "type": "arabic",
-        "ay": [
+        "type": "fadilah",
+        "ayat": [
           "يٰسٓ يٰسٓ يٰسٓ يٰسٓ يٰسٓ يٰسٓ يٰسٓ *",
           "وَالْقُرْاٰنِ الْحَكِيْمِ *",
           "اِنَّكَ لَمِنَ الْمُرْسَلِيْنَۙ *",
@@ -127,7 +127,7 @@
           "اِنَّمَاۤ اَمْرُهٗۤ اِذَاۤ اَرَادَ شَیْئًا اَنْ يَّقُوْلَ لَهٗ كُنْ فَيَكُوْنُ *",
           "فَسُبْحٰنَ الَّذِىْ بِيَدِهٖ مَلَـكُوْتُ كُلِّ شَىْءٍ وَّاِلَيْهِ تُرْجَعُوْنَ *"
         ],
-        "la": [
+        "lafadz": [
           "Yā Sīn (7x)",
           "Walqur-ānil ḥakīm",
           "Innaka laminal mursalīn",
@@ -223,7 +223,7 @@
           "Innamā amruhū idzā arōda syai-an ay-yaqūlu lahū kun fayakūn",
           "Fasub-ḥānal-ladzī biyadihī malakūtu kulli syai-iw wa-ilaihi turja'ūn"
         ],
-        "id": [
+        "arti": [
           "Yaa Sin",
           "Demi Al-Qur'an yang penuh hikmah,",
           "sungguh, engkau (Muhammad) adalah salah seorang dari rasul-rasul,",
@@ -328,8 +328,8 @@
     "sub": "Bacaan Setelah Yasin Fadilah",
     "content": [
       {
-        "type": "arabic",
-        "ay": [
+        "type": "doa",
+        "ayat": [
           "بِسْمِ االلّٰهِ الَّذِيْ لَا اِلٰهَ اِلَّا هُوَ الْحَيُّ الْقَيُّوْمُ * ",
           "بِسْمِ اللّٰهِ الَّذِيْ لَا اِلٰهَ اِلَّا هُوَ ذُوالْجَلَالِ وَالْاِكْرَامِ * ",
           "بَسْمِ اللّٰهِ الَّذِيْ لَا يَضُرُّ مَعَ اسْمِهٖ شَيْئٌ فِى الْاَرْضِ وَلَا فِى السَّمَاءِ وَهُوَ السَّمِيْعُ الْعَلِيْمُ * ",
@@ -349,7 +349,7 @@
           "وَصَلَّى اللّٰهُ عَلٰى سٰيِّدِنَا مُحَمَّدٍ وَاٰلِهٖ وَصَحْبِهٖ وَسَلَّمَ * ",
           "يَاذَالْجَلَالِ وَالْاِكْرَامِ يَااَرْحَمَ الرَّاحِمِيْنَ وَالْحَمْدُ لِلٰهِ رَبِّ الْعٰلَمِيْنَ * "
         ],
-        "la": [
+        "lafadz": [
           "Bismillāhil ladzī lā ilāha illā huwal ḥayyul qoyyūm",
           "Bismillāhil ladzī lā ilāha illā huwa dzul jalāli wal ikrōm",
           "Bismillāhil ladzī lā yadlurru ma'asmihī syai-ung fil ardli walā fis samā-i wa huwas samī'ul 'alīm",
@@ -369,7 +369,7 @@
           "Washollallōhu 'alā sayyidinā Muḥammadiw wa-ālihī washoḥbihī wasallam",
           "Yā dzal jalāli wal ikrōmi yā arḥamar rōḥimīna walḥamdulillāhi robbil 'ālamīn"
         ],
-        "id": [
+        "arti": [
           "Dengan menyebut nama Allah yg tiada tuhan yg berhak disembah selain Dia yang hidup kekal lagi terus-menerus mengurus makhluk-Nya.",
           "Dengan menyebut nama Allah yang tiada Tuhan yang berhak disembah selain Dia yang miliki kebesaran dan kemuliaan.",
           "Dengan menyebut Nama Allah yang dengan menyebut nama-Nya tiada sesuatupun yang membahayakan, baik si bumi maupun di langit; dan Dia Yang Maha Mendengar lagi Maha Mengetahui.",
