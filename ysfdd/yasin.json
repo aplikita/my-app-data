@@ -3,9 +3,6 @@
     "id": 1,
     "judul": "Tawassul",
     "sub": "Bacaan Sebelum Yasin Fadilah",
-    "content": [
-      {
-        "type": "arabic",
         "ay": [
           "اَشْهَدُ اَنْ لَا اِلٰهَ اِلَّا اللّٰهُ وَاَشْهَدُ اَنَّ مُحَمَّدً رَسُوْلُ اللّٰهِ صَلَّى اللّٰهُ عَلَيْهِ وَسَلَّمَ * ",
           "اَلْفَاتِحَةُ اِلٰى حَضْرَةِ رَسُوْلِ اللّٰهِ سَيِّدِنَا مُحَمَّدٍ صَلَّى اللّٰهُ عَلَيْهِ وَسَلَّمَ وَاٰلِهٖ وَاَزْوَاجِهٖ وَذُرِيَّتِهٖ وَاَهْلِ بَيْتِهٖ الطَّيِّبِيْنَ الطَّاهِرِيْنَ وَاَصْحَابِهِ الْاَكْرَمِيْنَ * ",
@@ -21,16 +18,12 @@
           "Al-Fatihah untuk hadirat Rasulullah, junjungan kami, Muhammad ﷺ, serta keluarga beliau, istri-istri beliau, keturunan beliau, dan ahlul bait beliau yang suci lagi terhormat, serta sahabat-sahabat beliau yang mulia.",
           "Dan untuk seluruh nabi dan rasul, serta malaikat-malaikat yang dekat dengan Allah, dan hamba-hamba Allah yang saleh."
         ]
-      }
-    ]
   },
   {
     "id": 2,
     "judul": "Yasin Fadilah",
     "sub": "Berisi Bacaan Yasin Fadilah",
-    "content": [
-      {
-        "type": "fadilah",
+    
         "ay": [
           "يٰسٓ يٰسٓ يٰسٓ يٰسٓ يٰسٓ يٰسٓ يٰسٓ *",
           "وَالْقُرْاٰنِ الْحَكِيْمِ *",
@@ -223,7 +216,7 @@
           "Innamā amruhū idzā arōda syai-an ay-yaqūlu lahū kun fayakūn",
           "Fasub-ḥānal-ladzī biyadihī malakūtu kulli syai-iw wa-ilaihi turja'ūn"
         ],
-        "id": [
+        "arti": [
           "Yaa Sin",
           "Demi Al-Qur'an yang penuh hikmah,",
           "sungguh, engkau (Muhammad) adalah salah seorang dari rasul-rasul,",
@@ -319,16 +312,11 @@
           "Sesungguhnya urusan-Nya apabila Dia menghendaki sesuatu Dia hanya berkata kepadanya, “Jadilah!” Maka jadilah sesuatu itu.",
           "Maka Mahasuci (Allah) yang di tangan-Nya kekuasaan atas segala sesuatu dan kepada-Nya kamu dikembalikan."
         ]
-      }
-    ]
   },
   {
     "id": 3,
     "judul": "Doa Yasin Fadilah",
     "sub": "Bacaan Setelah Yasin Fadilah",
-    "content": [
-      {
-        "type": "arabic",
         "ay": [
           "بِسْمِ االلّٰهِ الَّذِيْ لَا اِلٰهَ اِلَّا هُوَ الْحَيُّ الْقَيُّوْمُ * ",
           "بِسْمِ اللّٰهِ الَّذِيْ لَا اِلٰهَ اِلَّا هُوَ ذُوالْجَلَالِ وَالْاِكْرَامِ * ",
@@ -389,7 +377,5 @@
           "Semoga Allah melimpahkan shalawat serta salam kepada junjungan kita Nabi Muhammad dan segenap keluarga dan para sahabatnya.",
           "Wahai Tuhan yg miliki keagungan dan kemuliaan, Wahai Tuha Yang Maha Penyayang diantara para penyayang. Segala puji bagi Allah, Tuhan semesta alam."
         ]
-      }
-    ]
   }
 ]
