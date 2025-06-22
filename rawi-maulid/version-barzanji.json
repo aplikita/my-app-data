@@ -1,11 +1,11 @@
 {
   "version": 2,
   "last_updated": "2025-06-15",
-  "description": [
+  "description": {
     "id": "Perbaikan data",
     "en": "Fix data",
     "fr": "Correction des données",
     "ru": "Исправление данных",
     "uz": "Ma'lumotlarni tuzatish"
-  ]
+  }
 }
